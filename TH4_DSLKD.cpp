@@ -136,6 +136,11 @@ void searchStudent(listHS head, const string& name)
 	}
 }
 
+void deleteStudent(listHS& head, const string& name) 
+{
+
+}
+
 void giaiPhong(listHS head)
 {
 	while (head != nullptr)
